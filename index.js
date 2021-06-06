@@ -1,4 +1,4 @@
-var api = "H1ZBN2B3VDXTD05X"; // get your own api (https://www.alphavantage.co/support/#api-key)
+var api = ""; // get your own api (https://www.alphavantage.co/support/#api-key)
 var dps = [];
 var company = null;
 var symbol = "IBM";
